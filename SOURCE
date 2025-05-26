@@ -1,0 +1,2 @@
+-e git clone https://github.com/Ken-Vamrs/radxa-profiles.git
+git checkout 9b2e627b0b8c19e3f6cb235046af18a2b7faec47
